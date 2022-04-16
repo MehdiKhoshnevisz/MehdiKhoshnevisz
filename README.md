@@ -6,7 +6,7 @@
 [![Website: MehdiKhoshnevis](https://img.shields.io/badge/imehdi.dev-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.linkedin.com/in/mehdi-khoshnevisz/)
 
 - 🔭 &ensp;I’m currently working on Javascript ❤️ projects
-- 📚 &ensp;I’m currently learning React and NodeJs
+- 📚 &ensp;I’m currently learning React, Typescript and NodeJs
 - 🙋‍♂️ &ensp;I’m looking to collaborate with other developers and designers
 - 🤝 &ensp;I’m looking forward for contribue to javascript projects 
 - 🎮 &ensp;In my free time, I like to play guitar, hang out with my friends and my car, and play PS4 
