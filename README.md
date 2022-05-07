@@ -3,7 +3,7 @@
 
 [![Linkedin: MehdiKhoshnevis](https://img.shields.io/badge/-CONNECT_WITH_ME-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/mehdi-khoshnevisz/)
 [![StackOverflow: MehdiKhoshnevis](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13455258/mehdi-khoshnevis)
-[![Website: MehdiKhoshnevis](https://img.shields.io/badge/imehdi.dev-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.linkedin.com/in/mehdi-khoshnevisz/)
+[![Website: MehdiKhoshnevis](https://img.shields.io/badge/imehdi.dev-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://imehdi.dev)
 
 - 🔭 &ensp;I’m currently working on Javascript ❤️ projects
 - 📚 &ensp;I’m currently learning React, Typescript and NodeJs
