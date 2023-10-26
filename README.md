@@ -5,10 +5,6 @@
 const aboutMe = {
   fullName: "Mehdi Khoshnevis",
   email: "mkhnsz1996@gmail.com",
-  social: {
-    linkedin: "linkedin.com/in/mehdi-khoshnevisz",
-    stackoverflow: "stackoverflow.com/users/13455258/mehdi-khoshnevis"
-  },
   code: [Javascript, Typescript, HTML, CSS],
   tools: [Vue, Vuex, Vuetify, Pinia, Nuxt, React, Redux, Node, Jest, Playwright],
 }
