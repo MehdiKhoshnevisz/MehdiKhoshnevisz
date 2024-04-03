@@ -1,4 +1,4 @@
-<h3>Hey, there! 👋</h3>
+<h3>Hey, there!</h3>
 <h5><a href="">A Front-End Developer just walking around</a></h5>
 
 ```typescript
